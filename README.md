@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=A371F7&center=true&vCenter=true&width=620&lines=Operations+lead+by+day%2C+builder+by+night;Shipping+AI-powered+tools+and+data+pipelines;Real-time+products+%C2%B7+AI+agents+%C2%B7+Analytics" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/English%20%C2%B7%20T%C3%BCrk%C3%A7e-0d1117?style=flat-square&labelColor=0d1117&color=A371F7" />
-</p>
-
 <br>
 
 ## 🚀 What I'm building
@@ -21,12 +17,7 @@
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,dotnet,py,postgres,redis,prisma,docker,githubactions,linux&perline=12" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/DuckDB-0d1117?style=flat-square&logo=duckdb&logoColor=FFF000" />
-  <img src="https://img.shields.io/badge/Parquet-0d1117?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20API-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
+  <img width="440" src="assets/stack.svg" alt="TypeScript, Node.js, React, Next.js, .NET, Python, PostgreSQL, Redis, Prisma, Docker, GitHub Actions, Linux, DuckDB, Parquet, Claude" />
 </p>
 
 ## 💡 What I care about
