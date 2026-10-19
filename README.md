@@ -1,16 +1,75 @@
-## Hi there 👋
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,100:58A6FF&height=190&section=header&text=Hi,%20I%27m%20Mert&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn" />
+</p>
 
-<!--
-**mertv-dev/mertv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=A371F7&center=true&vCenter=true&width=620&lines=Operations+lead+by+day%2C+builder+by+night;Shipping+AI-powered+tools+and+data+pipelines;Real-time+products+%C2%B7+AI+agents+%C2%B7+Analytics" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/English%20%C2%B7%20T%C3%BCrk%C3%A7e-0d1117?style=flat-square&labelColor=0d1117&color=A371F7" />
+  <img src="https://komarev.com/ghpvc/?username=mertv-dev&color=A371F7&style=flat-square&label=profile+views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🚀 What I'm building
+
+- **[Cipiti.ai](https://cipiti.ai)** — a multi-tenant live support chat platform with built-in AI assistance · *with [Art-of-Technology](https://github.com/Art-of-Technology)*
+- **Internal AI tooling** — agents that read codebases, answer questions and turn findings into clean, actionable issues
+- **Analytics & risk** — DuckDB/Parquet pipelines, fraud detection and automated reporting
+
+## 🧰 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,dotnet,py,postgres,redis,prisma,docker,githubactions,linux&perline=12" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DuckDB-0d1117?style=flat-square&logo=duckdb&logoColor=FFF000" />
+  <img src="https://img.shields.io/badge/Parquet-0d1117?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
+</p>
+
+## 💡 What I care about
+
+- Turning messy operational problems into simple, automated systems
+- AI as a teammate — agents that read, reason and open the PR
+- Data you can act on, not just dashboards
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mertv-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertv-dev&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0d1117&title_color=A371F7&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mertv-dev&hide_border=true&border_radius=10&background=0d1117&ring=A371F7&fire=58A6FF&currStreakLabel=A371F7&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mertv-dev&hide_border=true&radius=10&bg_color=0d1117&color=c9d1d9&title_color=A371F7&line=A371F7&point=58A6FF&area=true&area_color=A371F7" />
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mertv-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mertv-dev/mertv-dev/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/mertv-dev/mertv-dev/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <i>Always up for a chat about AI tooling, real-time systems and data.</i>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:A371F7&height=110&section=footer" />
+</p>
