@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/English%20%C2%B7%20T%C3%BCrk%C3%A7e-0d1117?style=flat-square&labelColor=0d1117&color=A371F7" />
-  <img src="https://komarev.com/ghpvc/?username=mertv-dev&color=A371F7&style=flat-square&label=profile+views" />
 </p>
 
 <br>
@@ -39,22 +38,7 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mertv-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertv-dev&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0d1117&title_color=A371F7&text_color=c9d1d9" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mertv-dev&hide_border=true&border_radius=10&background=0d1117&ring=A371F7&fire=58A6FF&currStreakLabel=A371F7&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mertv-dev&hide_border=true&radius=10&bg_color=0d1117&color=c9d1d9&title_color=A371F7&line=A371F7&point=58A6FF&area=true&area_color=A371F7" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mertv-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 <br>
